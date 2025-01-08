@@ -1,2 +1,2 @@
 
-print("add ggg")зц
+print("add ggg")
